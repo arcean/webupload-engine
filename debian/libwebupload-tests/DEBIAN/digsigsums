@@ -1,0 +1,5 @@
+S 15 com.nokia.maemo H 40 e125096915011da05804dd881e2c1f22a3cc5ebd R 37 usr/lib/webupload/plugins/test-plugin
+S 15 com.nokia.maemo H 40 b5b76b47187477a97a48a3798ea26371638ed7de R 45 usr/share/libwebupload-tests/tracker-clean.sh
+S 15 com.nokia.maemo H 40 d2b24069e85d615e736a3f3c09ee8d0cc5cc1e4b R 40 usr/share/libwebupload-tests/run-test.sh
+S 15 com.nokia.maemo H 40 a6ee7d9ec3d9a4bdddd180a105bbf9e029564c24 R 44 usr/share/libwebupload-tests/tracker-copy.sh
+S 15 com.nokia.maemo H 40 7dc4e2ee7598b8db5292a7ac79a4673ea7f6df6e R 26 usr/bin/libwebupload-tests

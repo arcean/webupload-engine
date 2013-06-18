@@ -1,0 +1,10 @@
+Package: webupload-engine-l10n-engineering-english
+Source: webupload-engine
+Version: 1.3.12.1+0m8
+Architecture: all
+Maintainer: Jukka Tiihonen <jukka.t.tiihonen@nokia.com>
+Installed-Size: 48
+Section: devel
+Priority: optional
+Description: Contains engineering english translation for webupload-engine and the plugin it provides to share-ui
+Aegis-Manifest: empty

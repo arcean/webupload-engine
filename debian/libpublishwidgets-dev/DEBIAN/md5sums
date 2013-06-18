@@ -1,0 +1,11 @@
+f88a4959c99f222cd4eab6f60345d4c3  usr/include/PublishWidgets/FormLoader
+1ad00ef58af8aec91d56b4bfb20f19a9  usr/include/PublishWidgets/FormWidgetInterface
+c40949bd7aeb9ccb9668ce7b0d96e7fa  usr/include/PublishWidgets/FormWidgetProviderInterface
+f05073714b970cd4132f349dc7fd8502  usr/include/PublishWidgets/export.h
+767f8353d71d315fb5e8289bd04083cc  usr/include/PublishWidgets/formloader.h
+1138fc1d0606cdbe3bcd6d66f97e2ff7  usr/include/PublishWidgets/formwidgetinterface.h
+000ba9593f1e301aa360638af6d131c0  usr/include/PublishWidgets/formwidgetproviderinterface.h
+dfff893a74311c0e604517c075118dec  usr/lib/pkgconfig/publish-widgets.pc
+0d2068d4259495726392a81c6eaefdfc  usr/share/doc/libpublishwidgets-dev/changelog.gz
+a63fa6657276e831d0b48607c770c84b  usr/share/doc/libpublishwidgets-dev/copyright
+ba6f2f06f827e411a72f12ed5f20f90c  usr/share/qt4/mkspecs/features/publish-widgets.prf

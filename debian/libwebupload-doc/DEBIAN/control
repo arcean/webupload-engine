@@ -1,0 +1,10 @@
+Package: libwebupload-doc
+Source: webupload-engine
+Version: 1.3.12.1+0m8
+Architecture: all
+Maintainer: Jukka Tiihonen <jukka.t.tiihonen@nokia.com>
+Installed-Size: 2388
+Section: doc
+Priority: optional
+Description: API documentation for libwebupload
+Aegis-Manifest: empty

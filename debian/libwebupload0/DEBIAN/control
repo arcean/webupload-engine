@@ -1,0 +1,11 @@
+Package: libwebupload0
+Source: webupload-engine
+Version: 1.3.12.1+0m8
+Architecture: armel
+Maintainer: Jukka Tiihonen <jukka.t.tiihonen@nokia.com>
+Installed-Size: 956
+Depends: libaccounts-qt1, libc6 (>= 2.4), libexempi3 (>= 2.1.1-1+maemo10+0m6), libgcc1 (>= 1:4.1.1), libmdatauri0, libmeegotouchcore0, libmeegotouchextensions0, libmeegotouchsettings0, libqt4-dbus (>= 4.7.4~git20120327), libqt4-network (>= 4.7.4~git20120327), libqt4-xml (>= 4.7.4~git20120327), libqtcore4 (>= 4.7.4~git20120327), libqtgui4 (>= 4.7.4~git20120327), libqtm-systeminfo (>= 1.2.1+193+0m6), libqtsparql0 (>= 0.0.30+0m6), libquillmetadata1, libsignon-qt0, libsignoncrypto-qt, libstdc++6 (>= 4.4.0)
+Section: libs
+Priority: optional
+Description: Webupload engine and some support libraries
+Aegis-Manifest: included

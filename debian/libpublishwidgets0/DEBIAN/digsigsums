@@ -1,0 +1,3 @@
+S 15 com.nokia.maemo H 40 522894b4626d6bcb08ddfbd7918d48d46a0b5496 R 34 usr/lib/libpublishwidgets.so.0.2.0
+S 15 com.nokia.maemo H 40 c6e1f43e32591b4aee15db7457b1158690aef1df R 45 var/lib/dpkg/info/libpublishwidgets0.postinst
+S 15 com.nokia.maemo H 40 b38e7706479854fdc9b047bbfcb20deb96007b6b R 43 var/lib/dpkg/info/libpublishwidgets0.postrm

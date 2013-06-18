@@ -1,0 +1,5 @@
+S 15 com.nokia.maemo H 40 e196a8675c5769f9316f46a0e7c1992be7927a4c R 29 usr/lib/libwebupload.so.0.2.0
+S 15 com.nokia.maemo H 40 cb2f439bbd81a1b9241f9af245ab160a4a26f181 R 35 usr/lib/webupload-engine/metawriter
+S 15 com.nokia.maemo H 40 17971bc05f23b3496a71a0b3e846d467580af64a R 37 usr/lib/libwebupload-service.so.1.0.0
+S 15 com.nokia.maemo H 40 c6e1f43e32591b4aee15db7457b1158690aef1df R 40 var/lib/dpkg/info/libwebupload0.postinst
+S 15 com.nokia.maemo H 40 b38e7706479854fdc9b047bbfcb20deb96007b6b R 38 var/lib/dpkg/info/libwebupload0.postrm
